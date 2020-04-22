@@ -1,7 +1,21 @@
 # README
 
-Name of the Application :Photosite using Ruby On Rails
+#Name of the Application :Photosite using Ruby On Rails
 
-Name: Sai Kishore Reddy Rapolu
+*Things you may want to cover:
 
-Status:Application is running without any errors
+1)Ruby version
+
+2)System dependencies
+
+3)Configuration
+
+4)Database creation
+
+5)Database initialization
+
+6)How to run the test suite
+
+7)Services (job queues, cache servers, search engines, etc.)
+
+8)Deployment instructions
